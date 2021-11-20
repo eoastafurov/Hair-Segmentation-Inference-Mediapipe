@@ -2,7 +2,7 @@
 
 Feel free to use this code in your purposes.
 
-Note: a newer build of hair segmentation model can be found here: https://hub.docker.com/u/eoastafurov1
+Note: build of hair segmentation model can be found here: https://hub.docker.com/u/eoastafurov1
 
 ----
 ##### Estimate hair color from mask:
